@@ -1,0 +1,59 @@
+Added Component: Designator=HDR(PH1-07-UA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.adam-tech.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Component Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.adam-tech.com/downloader.php?p=PH1-XX-UA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Octopart Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://octopart.com/ph1-06-ua-adam+tech-7873156?r=sp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "Con Hdr Male 7contacts vertical 1x7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "PH1-07-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "PH1-07-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "1x7 THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100in"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2057-PH1-07-UA-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "732-5320-ND"; VariantName = "[No Variations]"
+Added Component: Designator=PS2(5749180-1)
+Add component (AddParameter): Name = "Connector Mount"; Value = "PCB Mount, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description in Visual"; Value = "CONN RCPT FMALE MINI DIN 6P SLDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tyco Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5749180-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Thermoplastic with Shield"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "5749180-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Package"; Value = "5749180-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shell Size"; Value = "Mini-Din"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1 Pin=HDR-1
+Added Pin To Net: NetName=1 Pin=PS2-1
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=HDR-2
+Added Pin To Net: NetName=2 Pin=PS2-2
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=HDR-3
+Added Pin To Net: NetName=3 Pin=PS2-3
+Added Net: Name=3
+Added Pin To Net: NetName=4 Pin=HDR-4
+Added Pin To Net: NetName=4 Pin=PS2-4
+Added Net: Name=4
+Added Pin To Net: NetName=5 Pin=HDR-5
+Added Pin To Net: NetName=5 Pin=PS2-5
+Added Net: Name=5
+Added Pin To Net: NetName=6 Pin=HDR-6
+Added Pin To Net: NetName=6 Pin=PS2-6
+Added Net: Name=6
+Added Pin To Net: NetName=SHELL Pin=HDR-7
+Added Pin To Net: NetName=SHELL Pin=PS2-S1
+Added Pin To Net: NetName=SHELL Pin=PS2-S2
+Added Pin To Net: NetName=SHELL Pin=PS2-S3
+Added Net: Name=SHELL
+Added Class: Name=Top Sheet

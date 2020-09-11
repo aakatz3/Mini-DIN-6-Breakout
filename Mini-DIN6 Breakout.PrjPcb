@@ -89,9 +89,57 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBIGCLCV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.REP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Mini-DIN6 Breakout\Mini-DIN6 Breakout_OSHPark Outputs\Mini-DIN6 Breakout.TXT
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjShrtName
-Value=Mini-Din6-BRK
+Value=PS/2-BRK
 
 [Parameter2]
 Name=ProjGitURL
